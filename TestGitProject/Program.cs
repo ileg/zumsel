@@ -10,6 +10,7 @@ namespace TestGitProject
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("test");
         }
     }
 }
